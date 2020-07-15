@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# https://askubuntu.com/questions/193072/how-to-use-the-adobe-source-code-pro-font
+
 FONT_NAME="SourceCodePro"
 URL="https://github.com/adobe-fonts/source-code-pro/archive/variable-fonts.zip"
 
